@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Match3 Test.sln"
+    "dotnet.defaultSolution": "Match3Test.sln"
 }
